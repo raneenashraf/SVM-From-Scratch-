@@ -6,22 +6,7 @@
 [![CVXOPT](https://img.shields.io/badge/CVXOPT-QP%20Solver-brightgreen.svg)](https://cvxopt.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-From%20Scratch-013243.svg)](https://numpy.org/)
 
----
 
-## 👨‍💻 Team: *The 8 Optimizers*
-
-| Name | Student ID |
-| :--- | :--- |
-| **Raneen Ashraf Yehia** | `22010091` |
-| **Rewan Gaber Khalaf** | `22010093` |
-| **Mariam Mohamed Ramdan** | `22010253` |
-| **Abdelruhman Salah Anwar** | `20221458503` |
-| **Omar Mohamed Mostafa** | `2022446471` |
-| **Mahmoud Reda Hassan Nour** | `20221469438` |
-| **Abubakr Mohamed Mahmoud** | `20221458962` |
-| **Fares Mohamed Fathy** | `20221461330` |
-
----
 
 ## 📌 Project Overview
 
